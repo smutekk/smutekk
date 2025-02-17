@@ -5,12 +5,14 @@
 
 ### test
 # test
-# Description
-Desync issues when trying to run ALVR with SlimeVR active at the same time
 
-# General Troubleshooting
-I carfully followed the instructions in the link
-I read the link
+## Description
+Desync issues which makes it impossible for me to do anything when trying to run ALVR with SlimeVR FBT active at the same time. ALVR runs perfectly fine if SlimeVR is closed.
+
+## General Troubleshooting
+I carfully followed the instructions in the [README](https://github.com/alvr-org/ALVR/blob/master/README.md)
+I read the [ALVR GitHub Wiki](https://github.com/alvr-org/ALVR/wiki)
+
 # Environment
 -
 
