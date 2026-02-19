@@ -1,6 +1,6 @@
 ### meowmeowmeowmeowmeow
 
-# Languages:
+# Used Languages:
 * Python (ew)
 * Rust (ofc)
 * Lua (ew)
